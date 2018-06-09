@@ -126,6 +126,7 @@
   <project path="external/libnfnetlink" name="LineageOS/android_external_libnfnetlink" remote="los" />
   <project path="external/libselinux" name="LineageOS/android_external_libselinux" groups="pdk" remote="los" />
   <project path="external/libtar" name="LineageOS/android_external_libtar" remote="los" />
+  <project path="external/libvorbis" name="LineageOS/android_external_libvorbis" remote="los" />
   <project path="external/libvpx" name="LineageOS/android_external_libvpx" remote="los" />
   <project path="external/google" name="LineageOS/android_external_google" remote="los" />
   <project path="external/gptfdisk" name="LineageOS/android_external_gptfdisk" groups="pdk-fs" remote="los" />
@@ -378,7 +379,6 @@
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libvncserver" name="platform/external/libvncserver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libweave" name="platform/external/libweave" remote="aosp" />
   <project path="external/libxml2" name="platform/external/libxml2" groups="pdk-cw-fs,pdk-fs,libxml2" remote="aosp" />
